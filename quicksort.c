@@ -29,6 +29,8 @@
 //caso tenhamos elementos repetidos, estaremos no pior caso do particiona =>
 //Usa uma nova variavel para podermos saber onde começa os números repetidos (que estarão sempre sendo jogados para o final) para podermos ordenar depois os mesmos após o i
 
+// qsort c++
+
 #include <stdio.h>
 #include <stdlib.h>
 
